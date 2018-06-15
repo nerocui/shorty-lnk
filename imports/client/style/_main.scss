@@ -1,0 +1,15 @@
+@import './variables';
+@import './base';
+@import './components/boxed-view';
+@import './components/mybutton';
+@import './components/list-item';
+@import './components/header';
+
+
+.container__bg{
+    background-image: url($boxed-view-overlay-bg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}

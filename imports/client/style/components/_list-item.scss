@@ -1,0 +1,58 @@
+
+.list-item{
+    border: 1px solid darkgrey;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    background-color:white;
+}
+
+.link{
+    font-size: 20px;
+    margin: 10px 0 10px 0;
+}
+
+.shortened-link{
+    font-size: 16px;
+    margin: 0 0 10px 0;
+}
+
+.link-list{
+    display: inline-block;
+    margin-top: 6rem;
+    position: relative;
+}
+
+
+.list-item__button{
+    margin-right: 10px;
+    font-size: 1.6rem;
+}
+
+.toggle{
+    font-size: 1.4rem;
+    background-color:white;
+    padding: 1.6rem;
+    border-radius: 50px;
+}
+
+.list-container{
+    margin-top: 2rem;
+}
+
+
+
+
+.container{
+    padding: 30px;
+    text-align: center;
+}
+
+.chip{
+    background-color:rgb(165, 161, 161);
+    padding: 0.5rem;
+    font-size: 1.4rem;
+    border-radius: 50px;
+    width: auto;
+    margin-bottom: 1rem;
+}
